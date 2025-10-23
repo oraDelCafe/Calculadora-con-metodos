@@ -1,7 +1,5 @@
 package daw;
 
-import java.util.Scanner;
-
 import javax.swing.JOptionPane;
 
 public class Calculadora {
@@ -12,7 +10,6 @@ public class Calculadora {
          */
 
         boolean salir = false;
-        Scanner sc = new Scanner(System.in);
         int opcionElegida, operando1 = 0, operando2 = 0;
 
         final String TEXTO_MENU = """
