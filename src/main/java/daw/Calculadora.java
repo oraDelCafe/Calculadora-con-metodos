@@ -25,6 +25,7 @@ public class Calculadora {
 
         do {
             opcionElegida = 0;
+            // cambiar a metodo de menu
 
             System.out.println(textoMenu);
 
